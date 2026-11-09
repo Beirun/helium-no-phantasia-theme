@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Helium no Phantasia",
   "version": "1.3",
-  "description": "Slate dark theme with soft blue accents. Minimal and easy on the eyes.",
+  "description": "Slate dark theme with muted blue accents and a line-art New Tab wallpaper.",
   "theme": {
     "colors": {
       "frame":                                   [ 22,  24,  29],
